@@ -1,0 +1,136 @@
+{
+  "details": [
+    {
+      "id": 2001,
+      "firstName": "Mita",
+      "lastName": "Rai",
+      "email": "mita_rai89@gmail.com",
+      "contactNumber": 9876543210,
+      "age": 25,
+      "dob": "12/03/1998",
+      "salary": 1.5,
+      "address": "123 Main St, City A"
+    },
+    {
+      "id": 2231,
+      "firstName": "Rita",
+      "lastName": "Sharma",
+      "email": "rita.sharma87@gmail.com",
+      "contactNumber": 9823456712,
+      "age": 27,
+      "dob": "05/08/1996",
+      "salary": 2.5,
+      "address": "456 Park Ave, City B"
+    },
+    {
+      "id": 2801,
+      "firstName": "Ramesh",
+      "lastName": "Gupta",
+      "email": "ramesh_g@yahoo.com",
+      "contactNumber": 9756123480,
+      "age": 30,
+      "dob": "11/15/1993",
+      "salary": 3,
+      "address": "789 Elm St, City C"
+    },
+    {
+      "id": 3221,
+      "firstName": "Anita",
+      "lastName": "Choudhury",
+      "email": "anita.ch92@gmail.com",
+      "contactNumber": 9101123456,
+      "age": 26,
+      "dob": "06/20/1997",
+      "salary": 2.2,
+      "address": "112 Oak St, City D"
+    },
+    {
+      "id": 4011,
+      "firstName": "Sita",
+      "lastName": "Verma",
+      "email": "sita.v@gmail.com",
+      "contactNumber": 9999887766,
+      "age": 29,
+      "dob": "10/05/1994",
+      "salary": 1.8,
+      "address": "43 Pine Rd, City E"
+    },
+    {
+      "id": 5223,
+      "firstName": "Gita",
+      "lastName": "Patel",
+      "email": "gita.patel88@gmail.com",
+      "contactNumber": 9123344556,
+      "age": 28,
+      "dob": "07/15/1995",
+      "salary": 3.5,
+      "address": "56 Cedar Blvd, City F"
+    },
+    {
+      "id": 6019,
+      "firstName": "Mohan",
+      "lastName": "Das",
+      "email": "mohan.das@gmail.com",
+      "contactNumber": 9876512345,
+      "age": 32,
+      "dob": "02/01/1991",
+      "salary": 4,
+      "address": "90 Maple Ln, City G"
+    },
+    {
+      "id": 6020,
+      "firstName": "Mohan",
+      "lastName": "Das",
+      "email": "mohan.das@gmail.com",
+      "contactNumber": 9876512345,
+      "age": 32,
+      "dob": "02/01/1991",
+      "salary": 4,
+      "address": "90 Maple Ln, City G"
+    },
+    {
+      "id": 6021,
+      "firstName": "Mohan",
+      "lastName": "Das",
+      "email": "mohan.das@gmail.com",
+      "contactNumber": 9876512345,
+      "age": 32,
+      "dob": "02/01/1991",
+      "salary": 4,
+      "address": "90 Maple Ln, City G"
+    },
+    {
+      "id": 6022,
+      "firstName": "Mohan",
+      "lastName": "Das",
+      "email": "mohan.das@gmail.com",
+      "contactNumber": 9876512345,
+      "age": 32,
+      "dob": "02/01/1991",
+      "salary": 4,
+      "address": "90 Maple Ln, City G"
+    },
+    {
+      "id": 6023,
+      "firstName": "Mohan",
+      "lastName": "Das",
+      "email": "mohan.das@gmail.com",
+      "contactNumber": 9876512345,
+      "age": 32,
+      "dob": "02/01/1991",
+      "salary": 4,
+      "address": "90 Maple Ln, City G"
+    },
+    {
+      "id": 6024,
+      "firstName": "Mohan",
+      "lastName": "Das",
+      "email": "mohan.das@gmail.com",
+      "contactNumber": 9876512345,
+      "age": 32,
+      "dob": "02/01/1991",
+      "salary": 4,
+      "address": "90 Maple Ln, City G"
+    }
+  ]
+}
